@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/samsung/m34x" name="android_device_samsung_m34x" remote="s5e8825"/>
+    <!-- <project path="vendor/samsung/m34x" name="proprietary_vendor_samsung_m34x" remote="s5e8825" revision="lineage-20.0"/> -->
+    <project path="kernel/samsung/universal8825-common" name="android_kernel_samsung_universal8825" remote="s5e8825" revision="wip/m34x"/>
+</manifest>
